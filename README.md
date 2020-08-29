@@ -9,7 +9,7 @@ Demonstrating https://github.com/simonw/click-app
 
 ## Installation
 
-Install this plugin using `pip`:
+Install this tool using `pip`:
 
     $ pip install click-app-template-demo
 
