@@ -36,4 +36,5 @@ setup(
         "test": ["pytest"]
     },
     tests_require=["click-app-template-demo[test]"],
+    python_requires=">=3.6",
 )
