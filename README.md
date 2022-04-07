@@ -11,7 +11,7 @@ Demonstrating https://github.com/simonw/click-app
 
 Install this tool using `pip`:
 
-    $ pip install click-app-template-demo
+    pip install click-app-template-demo
 
 ## Usage
 
