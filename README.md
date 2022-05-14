@@ -15,7 +15,13 @@ Install this tool using `pip`:
 
 ## Usage
 
-Usage instructions go here.
+For help, run:
+
+    click-app-template-demo --help
+
+You can also use:
+
+    python -m click_app_template_demo --help
 
 ## Development
 
