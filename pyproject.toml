@@ -1,5 +1,5 @@
 [project]
-name = "llm-click-app-template-demo"
+name = "click-app-template-demo"
 version = "0.1"
 description = "Demonstrating https://github.com/simonw/click-app"
 readme = "README.md"
