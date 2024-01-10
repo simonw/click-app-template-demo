@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/click-app-template-demo.svg)](https://pypi.org/project/click-app-template-demo/)
 [![Changelog](https://img.shields.io/github/v/release/simonw/click-app-template-demo?include_prereleases&label=changelog)](https://github.com/simonw/click-app-template-demo/releases)
-[![Tests](https://github.com/simonw/click-app-template-demo/workflows/Test/badge.svg)](https://github.com/simonw/click-app-template-demo/actions?query=workflow%3ATest)
+[![Tests](https://github.com/simonw/click-app-template-demo/actions/workflows/test.yml/badge.svg)](https://github.com/simonw/click-app-template-demo/actions/workflows/test.yml)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/click-app-template-demo/blob/master/LICENSE)
 
 Demonstrating https://github.com/simonw/click-app
