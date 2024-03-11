@@ -10,31 +10,32 @@ Demonstrating https://github.com/simonw/click-app
 ## Installation
 
 Install this tool using `pip`:
-
-    pip install click-app-template-demo
-
+```bash
+pip install click-app-template-demo
+```
 ## Usage
 
 For help, run:
-
-    click-app-template-demo --help
-
+```bash
+click-app-template-demo --help
+```
 You can also use:
-
-    python -m click_app_template_demo --help
-
+```bash
+python -m click_app_template_demo --help
+```
 ## Development
 
 To contribute to this tool, first checkout the code. Then create a new virtual environment:
-
-    cd click-app-template-demo
-    python -m venv venv
-    source venv/bin/activate
-
+```bash
+cd click-app-template-demo
+python -m venv venv
+source venv/bin/activate
+```
 Now install the dependencies and test dependencies:
-
-    pip install -e '.[test]'
-
+```bash
+pip install -e '.[test]'
+```
 To run the tests:
-
-    pytest
+```bash
+pytest
+```
