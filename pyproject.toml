@@ -19,7 +19,7 @@ Changelog = "https://github.com/simonw/click-app-template-demo/releases"
 Issues = "https://github.com/simonw/click-app-template-demo/issues"
 CI = "https://github.com/simonw/click-app-template-demo/actions"
 
-[project.entry-points.console_scripts]
+[project.scripts]
 click-app-template-demo = "click_app_template_demo.cli:cli"
 
 [project.optional-dependencies]
